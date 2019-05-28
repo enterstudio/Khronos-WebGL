@@ -22,7 +22,7 @@
         "express" : "3.x",
         "optimist": "0.3.x",
         "rimraf": "2.x",
-        "tar.gz": "0.x",
+        "tar.gz": "1.0.0",
         "shelljs": "0.x"
     }
 }
